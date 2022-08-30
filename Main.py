@@ -22,7 +22,7 @@ class DoublyCircularLinkedList:
         
 
     def delete_at_index(self, index) -> bool:
-        # Write code here
+        
 
     def get_previous_next(self, index) -> list:
         # Write code here
