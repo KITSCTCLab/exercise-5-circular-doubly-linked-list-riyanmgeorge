@@ -17,8 +17,7 @@ class DoublyCircularLinkedList:
         
 
     def add_at_index(self, index, data) -> bool:
-        # Write code here
-
+        
     def get(self, index) -> int:
         # Write code here
 
