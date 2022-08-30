@@ -25,7 +25,7 @@ class DoublyCircularLinkedList:
         
 
     def get_previous_next(self, index) -> list:
-        # Write code here
+        
 
 
 # Do not change the following code
