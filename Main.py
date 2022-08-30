@@ -19,7 +19,7 @@ class DoublyCircularLinkedList:
     def add_at_index(self, index, data) -> bool:
         
     def get(self, index) -> int:
-        # Write code here
+        
 
     def delete_at_index(self, index) -> bool:
         # Write code here
